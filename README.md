@@ -1,6 +1,6 @@
 # vue-test
 
-This template should help get you started developing with Vue 3 in Vite.
+Used freeCodeCamp [Product Cart course template](https://github.com/gwenf/vue3-fcc-course-basic-product-cart-demo/tree/starter-code).
 
 ## Recommended IDE Setup
 
